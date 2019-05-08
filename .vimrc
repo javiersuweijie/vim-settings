@@ -7,6 +7,7 @@ colorscheme monokai
 map <C-n> :NERDTreeToggle<CR>
 map <C-m> :NERDTreeToggle<CR>
 imap ` <Esc>
+map <leader>p "0p
 
 inoremap jk <esc>
 inoremap kj <esc>
